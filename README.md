@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps Tech Stacks**
+- 🌱 I’m currently learning **AWS Stacks**
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **PHP Development related question**
 
 - 📫 How to reach me **akmandalgoals@gmail.com**
 
